@@ -1,10 +1,4 @@
 
-/*
- * Nom : Rafai Siham
- * Numéro d'étudiant : 25235658
- * Cours : INF6104
- * Travail noté 6 - Filtrage collaboratif
- */
 
 import java.io.*;
 import java.util.*;
